@@ -136,7 +136,7 @@ If you think elevator A or B should take an action, you should print that action
 
 So, for example: If you think elevator A should move to floor #5 and open it's doors you could log/print
 > A: move to 5
-
+>
 > A: open doors
 
 ### Extra Credit:
